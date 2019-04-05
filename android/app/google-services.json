@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "1086505091023",
+    "firebase_url": "https://template-sample-24e0b.firebaseio.com",
+    "project_id": "template-sample-24e0b",
+    "storage_bucket": "template-sample-24e0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086505091023:android:2d7f97a5a691736e",
+        "android_client_info": {
+          "package_name": "com.fluttertemplates.templates.quotes_sharing_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFxhixWWeu7qLaCBPIW8rsaj_3DXhY4EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086505091023-ld9ml5043ghp3isuuih3h2sus91dv8kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
