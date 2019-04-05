@@ -8,8 +8,7 @@ You need the following items
 + Create a Firebase Project and add iOS, Android applications in the console.
 + Create a Firestore Database Collection. Fore Document field details, Please refer the below image
 
-![Database Screenshot][/images/database_screenshot.png]
-
+<img src="/images/database_screenshot.png" width="25%" />
 
 After, you complete creating the Firebase project and database:
 
@@ -18,7 +17,7 @@ After, you complete creating the Firebase project and database:
 
 Here is the example of the app updating in iOS, Android apps & also in Firestore database in realtime based on user interactions.
 
-![ScreenRecord Gif][/images/screen_record.gif]
+<img src="/images/screen_record.gif" width="25%" />
 
 
 ## About:
